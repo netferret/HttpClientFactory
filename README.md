@@ -1,2 +1,2 @@
 # HttpClientFactory
-Basic project to allow httpclientfactory to be be unit tested and allows api testing using mvc.
+Basic project to allow httpclientfactory to be be unit tested and allows api testing using mvc and .net core.
