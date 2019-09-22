@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
+using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,10 +21,32 @@ namespace HttpFactoryProject.Controllers
             _httpService = httpService;
         }
         // GET api/values
+        
         [HttpGet]
         public async Task<ActionResult<string>> GetAsync()
         {
-            return await _httpService.CallAPIAsync();
+
+            var cts = new CancellationTokenSource();
+            try
+            {
+                var t = Task.Run(() => {
+                    return _httpService.CallAPIAsync();
+                });
+
+                TimeSpan ts = TimeSpan.FromMilliseconds(100);
+
+                if (!t.Wait(ts))
+                    return "TIMED OUT";
+
+                return t.Result;
+            }
+            catch (Exception)
+            {
+                //handle exception
+            }
+
+            return null;
+            
         }
 
         // GET api/values/5

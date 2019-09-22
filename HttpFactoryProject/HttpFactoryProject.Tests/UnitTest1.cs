@@ -39,8 +39,8 @@ namespace Tests
         [Test]
         public async System.Threading.Tasks.Task Test1Async()
         {
-            var result = await valuesController.GetAsync();
-
+            var result = valuesController.GetAsync();
+            
             Assert.IsNotNull(result);
             Assert.Pass();
         }
