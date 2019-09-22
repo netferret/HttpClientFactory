@@ -41,7 +41,7 @@ namespace HttpFactoryProject.Controllers
             }
             catch (Exception ex)
             {
-                return ex.InnerException;
+                return ex.InnerException.Message;
             }
 
             return "NO RESPONSE";
