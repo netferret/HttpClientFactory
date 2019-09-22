@@ -1,0 +1,14 @@
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.csprojAssemblyReference.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.RazorAssemblyInfo.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.RazorAssemblyInfo.cs
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.AssemblyInfoInputs.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.AssemblyInfo.cs
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\bin\Debug\netcoreapp2.2\HttpFactoryProject.deps.json
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\bin\Debug\netcoreapp2.2\HttpFactoryProject.runtimeconfig.json
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\bin\Debug\netcoreapp2.2\HttpFactoryProject.runtimeconfig.dev.json
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\bin\Debug\netcoreapp2.2\HttpFactoryProject.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\bin\Debug\netcoreapp2.2\HttpFactoryProject.pdb
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.RazorTargetAssemblyInfo.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject\obj\Debug\netcoreapp2.2\HttpFactoryProject.pdb

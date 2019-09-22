@@ -1,0 +1,17 @@
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.csprojAssemblyReference.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.AssemblyInfoInputs.cache
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.AssemblyInfo.cs
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.Tests.deps.json
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.Tests.runtimeconfig.json
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.Tests.runtimeconfig.dev.json
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.Tests.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.Tests.pdb
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\bin\Debug\netcoreapp2.2\HttpFactoryProject.pdb
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.csproj.CopyComplete
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.dll
+C:\Users\Rob\Source\Repos\HttpFactoryProject\HttpFactoryProject.Tests\obj\Debug\netcoreapp2.2\HttpFactoryProject.Tests.pdb
