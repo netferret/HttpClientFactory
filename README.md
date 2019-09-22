@@ -1,2 +1,4 @@
 # HttpClientFactory
-Basic project to allow httpclientfactory to be be unit tested and allows api testing using mvc and .net core.
+This project serves 2 purposes:
+- Demonstrate task timeout for an API call
+- Unit test controllers in mvc and using .net core DI
