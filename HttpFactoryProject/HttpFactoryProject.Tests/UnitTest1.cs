@@ -9,19 +9,12 @@ namespace Tests
 {
     public class Tests
     {
-        ValuesController controller { get; set; }
+
+        public ValuesController valuesController { get; set; }
 
         [SetUp]
         public void Setup()
         {
-           
-
-        }
-
-        [Test]
-        public async System.Threading.Tasks.Task Test1Async()
-        {
-
             //  Arrange
             //  Setting up the stuff required for Configuration.GetConnectionString("DefaultConnection")
             Mock<IConfigurationSection> configurationSectionStub = new Mock<IConfigurationSection>();
@@ -38,12 +31,16 @@ namespace Tests
             services.AddTransient<IHttpService, HttpService>();
             services.AddTransient<ValuesController>();
 
-            
             var serviceProvider = services.BuildServiceProvider();
-            var controller = serviceProvider.GetService<ValuesController>();
-            var result = await controller.GetAsync();
+            valuesController = serviceProvider.GetService<ValuesController>();
 
-            //  Assert
+        }
+
+        [Test]
+        public async System.Threading.Tasks.Task Test1Async()
+        {
+            var result = await valuesController.GetAsync();
+
             Assert.IsNotNull(result);
             Assert.Pass();
         }
