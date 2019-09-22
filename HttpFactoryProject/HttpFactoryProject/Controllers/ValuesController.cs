@@ -26,7 +26,6 @@ namespace HttpFactoryProject.Controllers
         public async Task<ActionResult<string>> GetAsync()
         {
 
-            var cts = new CancellationTokenSource();
             try
             {
                 var t = Task.Run(() => {
@@ -40,12 +39,12 @@ namespace HttpFactoryProject.Controllers
 
                 return t.Result;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                //handle exception
+                return ex.InnerException;
             }
 
-            return null;
+            return "NO RESPONSE";
             
         }
 
